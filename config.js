@@ -4,7 +4,12 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["962994407651553302", ""], 
-  mongodbUri : "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbUri : "# Lavalink Configuration
+LAVALINK_HOST=lavalink.oops.wtf
+LAVALINK_PORT=443
+LAVALINK_PASSWORD=www.freelavalink.ga
+LAVALINK_SECURE=true
+  ",
   spotifyClientId : "d92baed9605a45a39ed7c2a2d960b1c1",
   spotifyClientSecret : "e9b29f6739de4315bc03b6d8a8e93b03",
   setupFilePath: './commands/setup.json',
